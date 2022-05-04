@@ -1,0 +1,30 @@
+body
+{
+  color:black;
+  background:aquamarine;
+}
+.heading
+{
+  width:90%;
+  font-size: 30px;
+}
+#camera
+{
+  border: 3px dashed black;
+  width: 370px;
+  height:320px;
+}
+.name_of_objects, #result_object_name, #result_object_accuracy
+{
+  color:black;
+}
+#Identify,#Capture
+{
+  background-color:brown;
+  color:antiquewhite;
+}
+#IR
+{
+  background-color: darkred;
+  color:white;
+}
